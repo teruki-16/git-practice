@@ -1,0 +1,26 @@
+body {
+     font-family: Arial, sans-serif;
+     background-color: #f0f0f0;
+     margin: 0;
+     padding: 0;
+ }
+ 
+ header {
+     background-color: #4CAF50;
+     color: white;
+     text-align: center;
+     padding: 20px;
+ }
+ 
+ section {
+     display: flex;
+     gap: 20px;
+     padding: 20px;
+ }
+ 
+ .Git_content, .Git_box {
+     background-color: white;
+     padding: 20px;
+     border-radius: 8px;
+     flex: 1;
+ }
